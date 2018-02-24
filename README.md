@@ -14,7 +14,7 @@ http://ieeexplore.ieee.org/document/8206538/
 # Get started here
 Use SolidWorks to open !Finger.SLDASM
 # News and Updates
-http://www.etedal.net/p/suf.html
+http://www.etedal.net/p/finger.html
 # YouTube
 - Watch this short video to see some of the features of the design:
 https://youtu.be/yruMRA9iLS8
