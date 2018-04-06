@@ -12,7 +12,7 @@ The full details of the design is studied here:
 Mahyar Abdeetedal, Mehrdad R. Kermani, "Development and Grasp Analysis of a Sensorized Underactuated Finger," The 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017, Vancouver, Canada.
 http://ieeexplore.ieee.org/document/8206538/
 # Get started here
-Use SolidWorks to open !Finger.SLDASM
+Use SolidWorks or Onshape (https://www.onshape.com/) to open !Finger.SLDASM
 # News and Updates
 http://www.etedal.net/p/finger.html
 # YouTube
