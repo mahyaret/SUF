@@ -1,4 +1,4 @@
-# This project is moved to [OnShape](https://cad.onshape.com/documents/6440e65737a1e7388d9b9f03/w/68a2c68f00c88e310720e300/e/ed0a58076d5a739230039dd4) 
+# This project can also be found at [OnShape](https://cad.onshape.com/documents/6440e65737a1e7388d9b9f03/w/68a2c68f00c88e310720e300/e/ed0a58076d5a739230039dd4) 
 
 # Sensorized Underactuated Finger (SUF) 
 Underactuated Finger for Proprioceptive Tactile Sensing
