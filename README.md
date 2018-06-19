@@ -10,9 +10,14 @@ This page presents the design of a new sensorized underactuated self-adaptive fi
 
 
 # Publication
-The full details of the design is studied here:
+The design is initially introduced here:
 Mahyar Abdeetedal, Mehrdad R. Kermani, "Development and Grasp Analysis of a Sensorized Underactuated Finger," The 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017, Vancouver, Canada.
 http://ieeexplore.ieee.org/document/8206538/
+
+The full details of the design and grasp analysis are studied here:
+Mahyar Abdeetedal, Mehrdad R. Kermani, "Grasp and Stress Analysis of an Underactuated Finger for Proprioceptive Tactile Sensing," IEEE/ASME Transactions on Mechatronics.
+https://ieeexplore.ieee.org/abstract/document/8373740/
+
 # Get started here
 Use SolidWorks or Onshape (https://www.onshape.com/) to open !Finger.SLDASM
 # News and Updates
