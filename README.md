@@ -25,3 +25,17 @@ http://www.etedal.net/p/finger.html
 # YouTube
 - Watch this short video to see some of the features of the design:
 https://youtu.be/yruMRA9iLS8
+
+# Citation
+```
+@article{abdeetedal2018grasp,
+  title={Grasp and Stress Analysis of an Underactuated Finger for Proprioceptive Tactile Sensing},
+  author={Abdeetedal, Mahyar and Kermani, Mehrdad Radji},
+  journal={IEEE/ASME Transactions on Mechatronics},
+  volume={23},
+  number={4},
+  pages={1619--1629},
+  year={2018},
+  publisher={IEEE}
+}
+```
